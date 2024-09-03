@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+
+
+h1{
+	margin: 50px 0;
+	font-weight: 700;
+	font-size: 30px;
+	color: black;
+	text-decoration: underline;
+	}
+
+input[type="checkbox"] {
+	accent-color: red;
+}
+
